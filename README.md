@@ -32,3 +32,4 @@ transmitted over the RTSP protocol and firebase has been integrated to receive p
 The business layer is a centralized hub which has the bulk of the application business logic. This is implemented in Google colaboratory and the server is built 
 using python, flask and Ngrok to open a tunnel in order to connect to the server hosted in a remote cloud machine. Tensorflow is used to load the trained model to make predictions on the surveillance acquired. Google drive is used as the file storage location of the surveillance footage.
 
+_PS: You will have to change the folder paths accordingly run this_
