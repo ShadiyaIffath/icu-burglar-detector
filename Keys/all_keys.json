@@ -1,10 +1,10 @@
 {
-"aws-rds": "mysql+mysqlconnector://icu_admin:loading123@icu.cnuixnc3ixkr.us-east-2.rds.amazonaws.com:3306/icu",
-"pushy": "a06838e19e5c98240c31a0495bab54c95de50b24c804441652d2c1f95a01369c",
-"firebase-server-key": "AAAAekSBWCE:APA91bHLyz7oK_mWYpIUnaRPABQbi1Ito6miCvsPagN3PFe3odzDVyYy3E1flY152Sy5e9dBKSscxiRMpX7oWR6i7jFeynpbcA_8FNNV1-H89lpQbciInVfSxkREzKmA1yZoeFay5g4k",
-"firebase-sender-id": "525135337505",
-"model":"/content/drive/MyDrive/ICU/Models/v6",
-"cryptography":"C3cd6IPqF782kBm-xYBTA3YVtC97MDtfgsja0YXuHkE=",
+"aws-rds": "please-configure-database connection string",
+"pushy": "pushy-notifier-key",
+"firebase-server-key": "",
+"firebase-sender-id": "",
+"model":"set-model-path",
+"cryptography":"create-personalized-key",
 "openpose_github":"https://github.com/CMU-Perceptual-Computing-Lab/openpose.git",
 "users_folders": "/content/drive/MyDrive/ICU/Clients/"
 }
